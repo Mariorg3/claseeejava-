@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>matrices</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/matrices/PrimeraPregunta.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Mario%20Rodriguez%20Grande/TipoA/PrimeraPregunta.java</locationURI>
+		</link>
+		<link>
+			<name>src/matrices/SegundaPregunta.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Mario%20Rodriguez%20Grande/TipoA/SegundaPregunta.java</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
